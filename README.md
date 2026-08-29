@@ -1,5 +1,7 @@
 # Omarchy
 
+This checkout is [chibitek/omarchy-desk](https://github.com/chibitek/omarchy-desk), a Labs side-project fork of [basecamp/omarchy](https://github.com/basecamp/omarchy) (`quattro`). It is not a rebranded distro. See [docs/CHIBITEK.md](docs/CHIBITEK.md).
+
 Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
 
 Read more at [omarchy.org](https://omarchy.org).
